@@ -1,0 +1,4 @@
+From: billing@khanlogistics.example
+Subject: INV-1006
+
+Paid 45,000 against INV-1006. The extra 5,000 is an advance for next month.

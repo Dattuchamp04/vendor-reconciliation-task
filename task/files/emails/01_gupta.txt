@@ -1,0 +1,4 @@
+From: accounts@guptasons.example
+Subject: Payment for INV-1002
+
+Hi, we paid INV-1002 in two parts this month. Please confirm once received.

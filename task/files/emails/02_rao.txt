@@ -1,0 +1,4 @@
+From: finance@raoelectricals.example
+Subject: INV-1003 settled
+
+Dear team, we have paid the full amount of Rs 8,450.50 for INV-1003 via NEFT.
